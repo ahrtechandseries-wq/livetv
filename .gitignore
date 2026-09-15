@@ -15,3 +15,5 @@ out/
 !.dev.vars.example
 
 !.env.example
+/dist/
+.vinext/
